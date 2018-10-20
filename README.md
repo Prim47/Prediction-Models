@@ -1,6 +1,6 @@
 # Prediction-Models
 
-Data Science Assignment 
+Data Science 
 Data Available
 
 
@@ -24,6 +24,3 @@ Exploratory Analysis
 
 Prediction
 The test_set doesn’t contain the variable Price so we need you to try to predict the value of this variable. Please produce the following: • One model that is easy to understand and with a clear interpretation; • One model that is producing the best predictions accuracy. You are also asked to send us a file containing your best predictions for the variable Price of the test set before the interview. The submission file needs to contain the two following columns: • ID • predicted_price
-
-Presentation of Results
-You will communicate your findings in a 15-20 minute presentation in the interview. Your presentation should detail any techniques used along the way. We will be looking for clear explanations of advanced techniques and concepts so feel free to use visualizations or other methods to help with communication.
